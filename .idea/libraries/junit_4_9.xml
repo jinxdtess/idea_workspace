@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="junit-4.9">
+    <CLASSES>
+      <root url="jar://E:/springmvc_mybatis1208/WebRoot/WEB-INF/lib/junit-4.9.jar!/" />
+      <root url="jar://E:/springmvc_mybatis1208/WebRoot/WEB-INF/lib/log4j-1.2.17.jar!/" />
+      <root url="jar://E:/springmvc_mybatis1208/WebRoot/WEB-INF/lib/log4j-api-2.0-rc1.jar!/" />
+      <root url="jar://E:/springmvc_mybatis1208/WebRoot/WEB-INF/lib/log4j-core-2.0-rc1.jar!/" />
+      <root url="jar://E:/springmvc_mybatis1208/WebRoot/WEB-INF/lib/mybatis-3.2.7.jar!/" />
+      <root url="jar://E:/springmvc_mybatis1208/WebRoot/WEB-INF/lib/mybatis-spring-1.2.2.jar!/" />
+      <root url="jar://E:/springmvc_mybatis1208/WebRoot/WEB-INF/lib/mysql-connector-java-5.1.7-bin.jar!/" />
+      <root url="jar://E:/springmvc_mybatis1208/WebRoot/WEB-INF/lib/jackson-mapper-asl-1.9.11.jar!/" />
+      <root url="jar://E:/springmvc_mybatis1208/WebRoot/WEB-INF/lib/jackson-core-asl-1.9.11.jar!/" />
+      <root url="jar://E:/springmvc_mybatis1208/WebRoot/WEB-INF/lib/hibernate-validator-4.3.0.Final.jar!/" />
+      <root url="jar://E:/springmvc_mybatis1208/WebRoot/WEB-INF/lib/validation-api-1.0.0.GA.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
